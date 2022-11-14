@@ -6,7 +6,6 @@ Hi 👋 My name is Sanskar khandelwal
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Sanskarkhandelwal336@gmail.com](mailto:Sanskarkhandelwal336@gmail.com)
-* 🚀  I'm currently working on [Figma](http://www.figma.com/file/KLldwqH5fZDhxKOxl0XWAV/Learn-salsa?node-id=0%3A1)
 * 🧠  I'm learning Data Structure and Algorithm + Web Development
 * 🤝  I'm open to collaborating on UI UX and Web developement
 * ⚡  I love to make connections online.
