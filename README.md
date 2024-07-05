@@ -29,8 +29,9 @@ During my college tenure when I was a Google developer student club co-head I co
 - **Web**: Next.js, React.js, Typescript, Tailwind CSS, Saas, HTML, CSS, Javascript, Recoil
 - **Blockchain**: Ethereum
 - **Languages**: Java, JavaScript, TypeScript, Python, C/C++, Solidity
-- **Databases**: MongoDB, DynamoDB, Postgres, MySQL
+- **Databases**: MongoDB, AWS DynamoDB, Postgres, MySQL
 - **Data Extraction and Web Automation**: Scrapy, Selenium, Python requests
+- **Serverless Services**: AWS lambda, AWS Cognito, AWS ApiGateway, Serverless Framework, Cloudflare workers.
 - **Tools**: Git, Postman, Figma, Canva
  
 
