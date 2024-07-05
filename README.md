@@ -13,7 +13,7 @@ I believe in public learning, and I am constantly eager to learn new things and 
 
 During my college tenure when I was a Google developer student club co-head I conducted multiple sessions to help students get started with **web development**, **ui/ux**. I also keep sharing my thoughts on [Twitter](https://x.com/sanskartweets) regarding **programming**, **blockchain** and **career in tech**.
 
-- Building [myverse](https://myverse.link/) |  [getapet](https://www.getapet.link/) | [bestaiicons](https://www.bestaiicons.vercel.app/) 
+- Building [myverse](https://myverse.link/) |  [getapet](https://www.getapet.link/) | [bestaiicons](https://bestaiicons.vercel.app/) 
 - Winner at **[ETHForAll](https://ethforall.devfolio.co/)**. See the [project](https://linkpay.vercel.app/)
 - Best Developer on Engineering days [certificate](https://drive.google.com/file/d/19Cqr1O9QuzOwuztXjUuW4r7n_Y8vzLY6/view?usp=sharing).
 
